@@ -1,4 +1,3 @@
-����� �뢮�� ������ �� ��࠭ (ECHO) ����祭.
 # Contributing to online-store-app
 
 ## Branching Strategy
